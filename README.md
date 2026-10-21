@@ -66,6 +66,6 @@ I'm currently learning about **3D Gaussian Splatting**, with an interest in 3D s
 
 <div align="center">
 
-<i>Always learning. Always exploring. Building one project at a time.</i>
+<i>Shoot for the moon. Even if you miss, you'll land among the stars.</i>
 
 </div>
