@@ -2,11 +2,12 @@
 
 # Hi, I'm Bùi Đức Anh 👋
 
-### Artificial Intelligence Student at FPT University
+### AI Student at FPT University | Reinforcement Learning · Computer Vision · Robotics
 
-Exploring how intelligent systems learn, perceive, and interact with the world.
+I enjoy learning how intelligent systems perceive their environment, make decisions,
+and interact with the physical world.
 
-[![GitHub](https://img.shields.io/badge/GitHub-danhyoyo-181717?style=flat-square&logo=github)](https://github.com/danhyoyo)
+[![GitHub](https://img.shields.io/badge/GitHub-danhyoyo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danhyoyo)
 
 </div>
 
@@ -14,53 +15,55 @@ Exploring how intelligent systems learn, perceive, and interact with the world.
 
 ## About Me
 
-I'm an Artificial Intelligence student at **FPT University** with a curious mind and a passion for continuous learning. I enjoy exploring new ideas, understanding how things work, and turning what I learn into practical projects.
+I'm an **Artificial Intelligence student at FPT University** who enjoys learning through exploration and hands-on projects. I like breaking down unfamiliar ideas, building practical experiments, and improving through each iteration.
 
-My interests lie at the intersection of **reinforcement learning, computer vision, and robotics**. I'm especially interested in how machines can learn from experience, understand their surroundings, and act in the physical world.
+My main interests are **reinforcement learning, computer vision, and robotics**—especially the connection between perception, decision-making, simulation, and control.
 
-I'm currently learning about **3D Gaussian Splatting**, with an interest in 3D scene representation and novel view synthesis.
+## Current Focus
 
-- **Learn by building:** connect AI concepts with hands-on experiments.
-- **Stay curious:** explore new approaches and keep improving my foundations.
+- Studying **reinforcement learning** for robotic control and manipulation.
+- Exploring **computer vision** for robot perception and scene understanding.
+- Learning **3D Gaussian Splatting** for 3D scene representation and novel-view synthesis.
+- Strengthening my foundations in algorithms, mathematics, and software engineering.
 
 ## Areas of Interest
 
-| Area | What I Enjoy Exploring |
+| Area | Topics I Explore |
 | :--- | :--- |
-| **Reinforcement Learning** | Learning through interaction, reward design, and decision-making |
-| **Computer Vision** | Visual perception, image understanding, and deep learning |
-| **Robotics** | Robot simulation, perception, and intelligent control |
+| **Reinforcement Learning** | Agent–environment interaction, reward design, and policy learning |
+| **Computer Vision** | Image understanding, visual perception, and deep learning |
+| **Robotics** | Simulation, perception, manipulation, and intelligent control |
+| **3D Vision** | 3D Gaussian Splatting, scene representation, and novel-view synthesis |
 
-## Technical Skills
+## Technical Toolkit
 
-**Programming Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**AI & Computer Vision**
+### AI & Computer Vision
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Robotics & Simulation**
+### Robotics & Simulation
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-## Learning Goals
+## How I Learn
 
-- Learn the foundations of 3D Gaussian Splatting and explore how it represents and renders 3D scenes.
-- Deepen my understanding of reinforcement learning for robotic control.
-- Explore how computer vision can support robot perception and manipulation.
-- Build stronger foundations in algorithms, mathematics, and software engineering.
-- Document my experiments and share what I learn along the way.
+- **Build to understand:** turn concepts into experiments and working projects.
+- **Stay curious:** explore new ideas and question how systems work.
+- **Improve continuously:** learn from results, refine the approach, and try again.
 
-## Find Me Online
+## Connect
 
-- **GitHub:** [@danhyoyo](https://github.com/danhyoyo)
-- **Codeforces:** [123ducanhanhduc123](https://codeforces.com/profile/123ducanhanhduc123)
+- GitHub: [@danhyoyo](https://github.com/danhyoyo)
+- Codeforces: [123ducanhanhduc123](https://codeforces.com/profile/123ducanhanhduc123)
 
 ---
 
